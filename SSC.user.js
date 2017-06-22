@@ -4,8 +4,8 @@
 // @description Simple button Clicker
 // @version 0.01
 // @author DEMENT0R
-// @downloadURL https://github.com/DEMENT0R/steam_activation_button/raw/master/SSC.user.js
-// @updateURL https://github.com/DEMENT0R/steam_activation_button/raw/master/SSC.user.js
+// @downloadURL https://github.com/DEMENT0R/SummerSale2017-Helper/raw/master/SSC.user.js
+// @updateURL https://github.com/DEMENT0R/SummerSale2017-Helper/raw/master/SSC.user.js
 // @license GNU v3
 // @noframes
 // @match        http://store.steampowered.com/*
