@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Summer Sale Clicker
+// @name         Summer Sale 2017 Clicker
 // @namespace    SSC
 // @description Simple button Clicker
 // @version 0.01
