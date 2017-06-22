@@ -2,7 +2,7 @@
 // @name         Summer Sale 2017 Clicker
 // @namespace    SSC
 // @description Simple button Clicker
-// @version 0.01
+// @version 0.02
 // @author DEMENT0R
 // @downloadURL https://github.com/DEMENT0R/SummerSale2017-Helper/raw/master/SSC.user.js
 // @updateURL https://github.com/DEMENT0R/SummerSale2017-Helper/raw/master/SSC.user.js
