@@ -16,4 +16,7 @@
 
 (function() {
     'use strict';
+    setTimeout(function(){
+        document.querySelector('.next_in_queue_content').click();
+    }, 1);
 })();
