@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Summer Sale 2017 Clicker
+// @name         Summer Sale 2018 Clicker
 // @namespace    SSC
 // @description  Simple button Clicker
-// @version      0.04
+// @version      0.05
 // @author       DEMENT0R
 // @downloadURL  https://github.com/DEMENT0R/SteamSaleHelper/raw/master/SSH.user.js
 // @updateURL    https://github.com/DEMENT0R/SteamSaleHelper/raw/master/SSH.user.js
