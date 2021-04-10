@@ -1,4 +1,4 @@
-<h1>SummerSale2017-Helper</h1>
+<h1>Steam Sales Helper</h1>
 Simple Clicker
 
 Just clicks "Next" on "Recomended" page
